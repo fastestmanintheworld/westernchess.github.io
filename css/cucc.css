@@ -207,6 +207,14 @@ p {
     padding: 70px 0;
 }
 
+img {
+    height: 60px;
+}
+
+.app-store {
+    height: 41.2px;
+}
+
 @media(max-width:600px) {
     .maintitle span {
         display: none;
